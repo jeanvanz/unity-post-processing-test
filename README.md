@@ -14,7 +14,8 @@ O foco deste repositório não é em mecânicas complexas de jogo ou inteligênc
 
 ## 🛠️ Tecnologias Utilizadas
 * **Engine:** Unity (2D)
-* **Pacotes:** Post Processing Stack
+* **Linguagem:** C# (para os scripts de movimentação do jogador)
+* **Efeitos Visuais:** Sistema nativo de Volumes (Global Post Processing) da Unity (Standard Built-in).
 
 ## 🎨 Créditos dos Assets
 
