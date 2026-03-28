@@ -26,7 +26,7 @@ Este projeto não seria possível sem o trabalho dos artistas que disponibilizam
  
 ## 👥 Integrantes do Time
 
-1134300 - Bernardo Sozo
-1135058 - Gabriel Brocco
-1134254 - Jean Vanz
-1136392 - Rafael Boff
+* 1134300 - Bernardo Sozo
+* 1135058 - Gabriel Brocco
+* 1134254 - Jean Vanz
+* 1136392 - Rafael Boff
